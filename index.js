@@ -1,7 +1,7 @@
-import * as THREE from './node_modules/three/build/three.module.js';
-import { CSS3DObject, CSS3DRenderer } from './node_modules/three/examples/jsm/renderers/CSS3DRenderer.js';
-import { GLTFLoader } from './node_modules/three/examples/jsm/loaders/GLTFLoader.js';
-import { IndoorControls } from './node_modules/three/examples/jsm/controls/IndoorControls.js';
+import * as THREE from './three/build/three.module.js';
+import { CSS3DObject, CSS3DRenderer } from './three/examples/jsm/renderers/CSS3DRenderer.js';
+import { GLTFLoader } from './three/examples/jsm/loaders/GLTFLoader.js';
+import { IndoorControls } from './three/examples/jsm/controls/IndoorControls.js';
 import IframeObject from './IframeObject.js';
 
 // // Basic scene set up //
