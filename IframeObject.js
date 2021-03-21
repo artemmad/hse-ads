@@ -86,7 +86,7 @@ export default class IframeObject {
     get object() {
         // create the dom Element
         let element = document.createElement( 'iframe' );
-        element.src = 'http://realityfamily.ru/testad/';
+        element.src = 'https://realityfamily.ru/testad/';
 
         element.style.width = '1000px';
         element.style.height = '1000px';

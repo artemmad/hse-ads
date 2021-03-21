@@ -21,7 +21,7 @@ glScene.add(light);
 
 const cssScene   = new THREE.Scene();
 
-const url = 'http://realityfamily.ru/testad/'
+const url = 'https://realityfamily.ru/testad/'
 
 // to left 17
 let iframe = new IframeObject(cssScene, url);
