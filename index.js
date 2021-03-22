@@ -205,6 +205,29 @@ iframe.setScale(0.002, 0.002, 0.002);
 cssScene.add(iframe.object);
 
 
+//create materaials for image moc's
+// const img1 = new THREE.MeshLambertMaterial({
+//     map:new THREE.TextureLoader().load('res/1.png')
+// });
+
+// const img2 = new THREE.MeshLambertMaterial({
+//     map:THREE.TextureLoader().load('res/2.png')
+// });
+
+// const img3 = new THREE.MeshLambertMaterial({
+//     map:THREE.TextureLoader().load('res/3.png')
+// });
+
+// const img4 = new THREE.MeshLambertMaterial({
+//     map:THREE.TextureLoader().load('res/4.png')
+// });
+
+
+// add moc reclama planes
+// var plane = new THREE.Mesh(new THREE.PlaneGeometry(200, 200),img1);
+// plane.setPosition(-7.778, 2, -6)
+// glScene.add(plane);
+
 // Create renderers //
 /////////////////////
 
