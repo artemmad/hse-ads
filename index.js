@@ -665,12 +665,258 @@ plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
 plane.position.set(-22.2, 1.068, 15.75);
 glScene.add(plane);
 
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-26.8, 1.068, 15.75);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-31.4, 1.068, 15.75);
+glScene.add(plane);
+
+//12
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-36, 1.068, 13);
+plane.rotation.set(0, -Math.PI/2, 0);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-36, 1.068, 8.4);
+plane.rotation.set(0, -Math.PI/2, 0);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-36, 1.068, 3.8);
+plane.rotation.set(0, -Math.PI/2, 0);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-36, 1.068, -0.8);
+plane.rotation.set(0, -Math.PI/2, 0);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-36, 1.068, -5);
+plane.rotation.set(0, -Math.PI/2, 0);
+glScene.add(plane);
 
 
+//18
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-31.3, 1.068, -1.4);
+plane.rotation.set(0, Math.PI/2, 0);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-31.3, 1.068, 3.2);
+plane.rotation.set(0, Math.PI/2, 0);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-31.3, 1.068, 7.8);
+plane.rotation.set(0, Math.PI/2, 0);
+glScene.add(plane);
+
+//20
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-29, 1.068, 11.7);
+plane.rotation.set(0, Math.PI, 0);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-24.4, 1.068, 11.7);
+plane.rotation.set(0, Math.PI, 0);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-19.8, 1.068, 11.7);
+plane.rotation.set(0, Math.PI, 0);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-15.2, 1.068, 11.7);
+plane.rotation.set(0, Math.PI, 0);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-10.6, 1.068, 11.7);
+plane.rotation.set(0, Math.PI, 0);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-6, 1.068, 11.7);
+plane.rotation.set(0, Math.PI, 0);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-1.4, 1.068, 11.7);
+plane.rotation.set(0, Math.PI, 0);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(3.2, 1.068, 11.7);
+plane.rotation.set(0, Math.PI, 0);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(7.8, 1.068, 11.7);
+plane.rotation.set(0, Math.PI, 0);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(12.4, 1.068, 11.7);
+plane.rotation.set(0, Math.PI, 0);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(17, 1.068, 11.7);
+plane.rotation.set(0, Math.PI, 0);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(21.6, 1.068, 11.7);
+plane.rotation.set(0, Math.PI, 0);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(26.2, 1.068, 11.7);
+plane.rotation.set(0, Math.PI, 0);
+glScene.add(plane);
+
+//22
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.rotation.set(0, -Math.PI/2, 0);
+plane.position.set(31, 1.068, 9);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.rotation.set(0, -Math.PI/2, 0);
+plane.position.set(31, 1.068, 4.4);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.rotation.set(0, -Math.PI/2, 0);
+plane.position.set(31, 1.068, -0.2);
+glScene.add(plane);
 
 
+//24
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(28.4, 1.068, -4.45);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(23.8, 1.068, -4.45);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(19.2, 1.068, -4.45);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(14.6, 1.068, -4.45);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(10, 1.068, -4.45);
+glScene.add(plane);
 
 
+//23
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(13, 1.068, 0.5);
+plane.rotation.set(0, -Math.PI, 0);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(17.6, 1.068, 0.5);
+plane.rotation.set(0, -Math.PI, 0);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(22.2, 1.068, 0.5);
+plane.rotation.set(0, -Math.PI, 0);
+glScene.add(plane);
+
+//21
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(23, 1.068, 6.85);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(18.4, 1.068, 6.85);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(13.8, 1.068, 6.85);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(9.2, 1.068, 6.85);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(4.6, 1.068, 6.85);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(0, 1.068, 6.85);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-4.6, 1.068, 6.85);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-9.2, 1.068, 6.85);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-13.8, 1.068, 6.85);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-18.4, 1.068, 6.85);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-23, 1.068, 6.85);
+glScene.add(plane);
+
+//19
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-26.4, 1.068, 4);
+plane.rotation.set(0, -Math.PI/2, 0);
+glScene.add(plane);
+
+
+//16
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-24, 1.068, 1.15);
+plane.rotation.set(0, Math.PI, 0);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-19.4, 1.068, 1.15);
+plane.rotation.set(0, Math.PI, 0);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-14.8, 1.068, 1.15);
+plane.rotation.set(0, Math.PI, 0);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-10.2, 1.068, 1.15);
+plane.rotation.set(0, Math.PI, 0);
+glScene.add(plane);
+
+plane = new THREE.Mesh(new THREE.PlaneGeometry(4.59, 2.25),randImage());
+plane.position.set(-5.6, 1.068, 1.15);
+plane.rotation.set(0, Math.PI, 0);
+glScene.add(plane);
 
 
 // Create renderers //
