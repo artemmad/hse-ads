@@ -221,9 +221,77 @@ const img4 = new THREE.MeshLambertMaterial({
     map:new THREE.TextureLoader().load('./res/4.png')
 });
 
-let imgMass = [img1, img2, img3, img4];
+const img5 = new THREE.MeshLambertMaterial({
+    map:new THREE.TextureLoader().load('./res/5.png')
+});
+
+const img6 = new THREE.MeshLambertMaterial({
+    map:new THREE.TextureLoader().load('./res/6.png')
+});
+
+const img7 = new THREE.MeshLambertMaterial({
+    map:new THREE.TextureLoader().load('./res/7.png')
+});
+
+const img8 = new THREE.MeshLambertMaterial({
+    map:new THREE.TextureLoader().load('./res/8.png')
+});
+
+const img9 = new THREE.MeshLambertMaterial({
+    map:new THREE.TextureLoader().load('./res/9.png')
+});
+
+const img10 = new THREE.MeshLambertMaterial({
+    map:new THREE.TextureLoader().load('./res/10.png')
+});
+
+const img11 = new THREE.MeshLambertMaterial({
+    map:new THREE.TextureLoader().load('./res/11.png')
+});
+
+const img12 = new THREE.MeshLambertMaterial({
+    map:new THREE.TextureLoader().load('./res/12.png')
+});
+
+const img13 = new THREE.MeshLambertMaterial({
+    map:new THREE.TextureLoader().load('./res/13.png')
+});
+
+const img14 = new THREE.MeshLambertMaterial({
+    map:new THREE.TextureLoader().load('./res/14.png')
+});
+
+const img15 = new THREE.MeshLambertMaterial({
+    map:new THREE.TextureLoader().load('./res/15.png')
+});
+
+const img16 = new THREE.MeshLambertMaterial({
+    map:new THREE.TextureLoader().load('./res/16.png')
+});
+
+const img17 = new THREE.MeshLambertMaterial({
+    map:new THREE.TextureLoader().load('./res/17.png')
+});
+
+const img18 = new THREE.MeshLambertMaterial({
+    map:new THREE.TextureLoader().load('./res/18.png')
+});
+
+const img19 = new THREE.MeshLambertMaterial({
+    map:new THREE.TextureLoader().load('./res/19.png')
+});
+
+const img20 = new THREE.MeshLambertMaterial({
+    map:new THREE.TextureLoader().load('./res/20.png')
+});
+
+const img21 = new THREE.MeshLambertMaterial({
+    map:new THREE.TextureLoader().load('./res/21.png')
+});
+
+let imgMass = [img1, img2, img3, img4, img5, img6, img7, img8, img9, img10, img11, img12, img13, img14, img15, img16, img17, img18, img19, img20, img21];
 let randImage =  () => {
-    return imgMass[Math.floor(Math.random() * Math.floor(4))]
+    return imgMass[Math.floor(Math.random() * Math.floor(21))]
 }
 
 
